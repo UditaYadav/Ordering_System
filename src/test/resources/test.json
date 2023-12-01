@@ -1,0 +1,29 @@
+[
+  {
+    "orderId": 3,
+    "orderDate": "2023-09-17",
+    "clientName": "client1",
+    "statusss": "PENDING",
+    "clientAddress": "name1",
+    "dispatchDate": "2023-09-17 21:24:17.222126",
+    "orderAmount": 10.0,
+    "numberOfItems": 1,
+    "createdAt": "2023-09-17",
+    "itemList": [
+      {
+        "itemId": 3,
+        "itemName": "item4",
+        "itemPrice": 20.0,
+        "itemQuantity": 6,
+        "shippedDate": "2023-09-17 21:24:17.246874"
+      },
+      {
+        "itemId": 4,
+        "itemName": "updated2",
+        "itemPrice": 20.0,
+        "itemQuantity": 6,
+        "shippedDate": "2023-09-17 21:24:17.253881"
+      }
+    ]
+  }
+]
